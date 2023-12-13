@@ -1,0 +1,28 @@
+p{
+    margin: 0;
+}
+
+.background-image{
+    background-image: url('../resources/images/sky-wallpaper-video-conferencing_23-2148627719.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.background-image-contain{
+    background-image: url('../resources/images/sky-wallpaper-video-conferencing_23-2148627719.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.upper-case-text{
+    text-transform:capitalize;
+}
+
+.font-Roboto-42px{
+    font-family: 'Roboto', sans-serif;
+    font-size: 42px;
+}
+.font-Roboto-20px{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}

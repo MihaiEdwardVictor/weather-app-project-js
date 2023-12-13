@@ -30,6 +30,7 @@ function getWeatherForecast(){
   .then((response)=>response.json())
   .then((data)=>{
     renderForecastData(data);
+    console.log(data);
   });
 
 }
